@@ -1,0 +1,35 @@
+winner = sweep, loser = random, rule = hit-all, reason = sunk all in 76 rounds, winner probably = ??
+winner = draw, loser = draw, rule = hit-all, reason = draw
+winner = draw, loser = draw, rule = hit-all, reason = draw
+winner = random, loser = 9445663156, rule = hit-all, reason = timeout on  opponent, winner probably = ??
+winner = random, loser = 9445663156, rule = hit-all, reason = timeout on  opponent, winner probably = ??
+winner = random, loser = 9445663156, rule = hit-all, reason = timeout on  opponent, winner probably = ??
+winner = random, loser = 9445663156, rule = hit-all, reason = timeout on  opponent, winner probably = ??
+winner = 9445663156, loser = enemy2, rule = hit-all, reason = sunk all in 71 rounds, winner probably = ??
+winner = inaba, loser = 9445663156, rule = hit-all, reason = opponent died (no pipe), winner probably = ??
+winner = inaba, loser = 9445663156, rule = hit-all, reason = sunk all in 38 rounds, winner probably = ??
+winner = sweep, loser = 9445663156, rule = hit-all, reason = opponent died (no pipe), winner probably = ??
+winner = 9445663156, loser = sweep, rule = hit-all, reason = sunk all in 49 rounds, winner probably = ??
+winner = 9445663156, loser = sweep, rule = hit-all, reason = sunk all in 49 rounds, winner probably = ??
+winner = inaba, loser = 9445663156, rule = hit-all, reason = sunk all in 40 rounds, winner probably = ??
+winner = 9445663156, loser = sweep, rule = hit-all, reason = sunk all in 49 rounds, winner probably = ??
+winner = 9445663156, loser = sweep, rule = hit-all, reason = sunk all in 49 rounds, winner probably = ??
+winner = 9445663156, loser = sweep, rule = hit-all, reason = sunk all in 49 rounds, winner probably = ??
+winner = 9445663156, loser = sweep, rule = hit-all, reason = sunk all in 49 rounds, winner probably = ??
+winner = 9445663156, loser = sweep, rule = hit-all, reason = sunk all in 42 rounds, winner probably = ??
+winner = 9445663156, loser = sweep, rule = hit-all, reason = sunk all in 42 rounds, winner probably = ??
+winner = inaba, loser = 9445663156, rule = hit-all, reason = sunk all in 39 rounds, winner probably = ??
+winner = 9445663156, loser = inaba, rule = hit-all, reason = sunk all in 47 rounds, winner probably = ??
+winner = kimura, loser = 9445663156, rule = hit-all, reason = sunk all in 28 rounds, winner probably = ??
+winner = sweep, loser = 9445663156, rule = hit-all, reason = opponent died (no pipe), winner probably = ??
+winner = kimura, loser = 9445663156, rule = hit-all, reason = sunk all in 25 rounds, winner probably = ??
+winner = kimura, loser = 9445663156, rule = hit-all, reason = sunk all in 26 rounds, winner probably = ??
+winner = kimura, loser = 9445663156, rule = hit-all, reason = sunk all in 26 rounds, winner probably = ??
+winner = draw, loser = draw, rule = hit-all, reason = draw
+winner = random, loser = ex2, rule = hit-all, reason = timeout on  opponent, winner probably = ??
+winner = draw, loser = draw, rule = hit-all, reason = draw
+winner = random, loser = ex3, rule = hit-all, reason = opponent died (no pipe), winner probably = ??
+winner = random, loser = ex3, rule = hit-all, reason = opponent died (no pipe), winner probably = ??
+winner = draw, loser = draw, rule = hit-all, reason = draw
+winner = ex3, loser = random, rule = hit-all, reason = sunk all in 70 rounds, winner probably = ??
+winner = ex4, loser = random, rule = hit-all, reason = sunk all in 66 rounds, winner probably = ??
